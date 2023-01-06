@@ -1,0 +1,17 @@
+@Test
+public void CreataccountTest() {
+	System.out.println("account is creat");
+
+}
+ @Test
+ public void ModifyaccountTest() {
+	System.out.println("account is modify");
+}
+ @Test
+	public void DelectaccountTest() {
+	System.out.println("account is delete");
+		
+}
+
+
+}
