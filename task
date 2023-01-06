@@ -10,6 +10,7 @@ public void CreataccountTest() {
  @Test
 	public void DelectaccountTest() {
 	System.out.println("account is delete");
+	added
 		
 }
 
